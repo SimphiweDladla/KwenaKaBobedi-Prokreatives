@@ -1,0 +1,10 @@
+{
+  "ci": {
+    "collect": {
+      "url": ["https://kwenakabobedi.netlify.app/"]
+    },
+    "upload": {
+      "target": "temporary-public-storage"
+    }
+  }
+}
